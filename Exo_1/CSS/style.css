@@ -1,0 +1,26 @@
+body{
+  border: 5px solid grey;
+  width: 50%;
+  text-align: center;
+}
+
+.calc{
+  background-color: lightblue;
+  border: 2px solid grey;
+}
+
+.container_1{
+  background-color: blue;
+}
+
+.div_result{
+  background-color: lightgreen;
+  border: 2px solid grey;
+  font-size: 20px;
+  color: darkgreen;
+}
+
+button{
+  color: darkblue;
+  height: 50px;
+}
